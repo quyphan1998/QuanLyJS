@@ -6,7 +6,7 @@ function create(tag) {
     return document.createElement(tag);
 }
 DanhSachSV = [];
-//tui chi tesst thoi nha
+
 
 function themSinhVien() {
     //Lấy dữ liệu từ form
