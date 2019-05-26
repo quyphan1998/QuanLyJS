@@ -1,4 +1,4 @@
-function getEle(ele) {
+﻿function getEle(ele) {
     return document.getElementById(ele);
 }
 
@@ -6,6 +6,7 @@ function create(tag) {
     return document.createElement(tag);
 }
 DanhSachSV = [];
+//tui chi tesst thoi nha
 
 function themSinhVien() {
     //Lấy dữ liệu từ form
